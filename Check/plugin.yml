@@ -1,0 +1,5 @@
+name: Check
+main: Check\Main
+api: 4.0.0
+version: 1
+author: ayd4ndemirci
